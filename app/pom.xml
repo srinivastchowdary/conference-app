@@ -12,7 +12,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<start-class>de.codecentric.Application</start-class>
-		<java.version>1.7</java.version>
+		<java.version>1.8</java.version>
 	</properties>
 
 	<parent>
@@ -23,9 +23,9 @@
 	</parent>
 
 	<scm>
-		<connection>scm:git:git@github.com:codecentric/conference-app.git</connection>
-		<url>https://github.com/codecentric/conference-app</url>
-		<developerConnection>scm:git:git@github.com:codecentric/conference-app.git</developerConnection>
+		<connection>scm:git:git@github.com:srinivastchowdary/conference-app.git</connection>
+		<url>https://github.com/srinivastchowdary/conference-app</url>
+		<developerConnection>scm:git:git@github.com:srinivastchowdary/conference-app.git</developerConnection>
 	</scm>
 
 	<dependencies>
